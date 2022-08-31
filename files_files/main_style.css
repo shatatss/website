@@ -19,7 +19,8 @@
  #header p { margin-top: -20px; margin-left: 30px; color: #999999; }
  #tabs10 { float:left; width:750px; font-size:93%; padding-bottom: 1px; border-bottom:4px solid #2763A5; line-height:normal; }
  #tabs10 ul { float:left; margin:0; padding:10px 10px 0 50px; list-style:none; }
- #tabs10 li { float:left; display:inline; margin:0; padding:0; }
+ #tabs10 li { float:left; display:inline; margin:0; padding:0; background: #2663a5 }
+#tabs10 li.active { background: #5a6d7a }
  #tabs10 a { float:left; background:url("/web/20180829234037im_/http://shatatss.com/files/theme/tableft10.gif?690674") no-repeat left top; margin:0; padding:0 0 0 4px; text-decoration:none; }
  #tabs10 a span { float:left; display:block; background:url("/web/20180829234037im_/http://shatatss.com/files/theme/tabright10.gif?690674") no-repeat right top; padding:5px 15px 4px 6px; color:#FFF; }
  #tabs10 a span { float:none; }
